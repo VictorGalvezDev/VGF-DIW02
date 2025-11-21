@@ -9,6 +9,9 @@ img {
 h1 {
     font-weight: bold !important;
 }
+article {
+    
+}
 .redondeo_imagen {
     border-radius: 10% !important;
 }
@@ -20,7 +23,7 @@ h1 {
 
 /* Tengo que hacer esta clase así para hacerlo más específico ya que boostrap me estaba sobreescribiendo la mia en algún sitio que no he enecontrado*/
 article.color_borde_article {
-    border-color: black !important;
+    border-color: rgb(180, 180, 180) !important;
 }
 
 .ocupar_altura_boton {
